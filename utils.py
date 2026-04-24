@@ -1,0 +1,5 @@
+username=["Arsh","Amit","Bipan","Daman","Anatariksh","Abhishek"]
+account_number=[2546077,2546058,2546097,2546104,2546070,2546025]
+pins=[6077,6058,6097,6104,6070,6025]
+balances=[157000,328992,176472,440000,500000,67000]
+transactions=[[],[],[],[],[],[]]
